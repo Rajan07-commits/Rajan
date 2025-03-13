@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="524e32d5-996e-4f3c-b76c-59ba967d82ee" name="Changes" comment="My Second Push">
-      <change afterPath="$PROJECT_DIR$/src/Lab_Programs/Lab003.java" afterDir="false" />
+    <list default="true" id="524e32d5-996e-4f3c-b76c-59ba967d82ee" name="Changes" comment="My Third Push">
+      <change afterPath="$PROJECT_DIR$/src/Lab_Programs/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Programs/Lab005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -105,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1741712714679</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="My Third Push">
+      <option name="closed" value="true" />
+      <created>1741829380641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741829380641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My First Push" />
     <MESSAGE value="My Second Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Second Push" />
+    <MESSAGE value="My Third Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Third Push" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$Lab001.ic" NAME="Lab001 Coverage Results" MODIFIED="1741533986442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
