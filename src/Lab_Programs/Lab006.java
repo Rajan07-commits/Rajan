@@ -1,3 +1,5 @@
+package Lab_Programs;
+
 public class Lab006 {
     public static void main(String[] args) {
         int a = 10;
