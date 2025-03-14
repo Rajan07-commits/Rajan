@@ -8,6 +8,5 @@ public class Lab006 {
         // a++ -> C -> ExpC = 12 -> a=13
 
         //ExpA + ExpB+ ExpC = 11+11+12 = 34
-
     }
 }
