@@ -11,13 +11,10 @@ public class Lab006 {
         //ExpA + ExpB+ ExpC = 11+11+12 = 34
 
         System.out.println(--b + b++ + b--);
-
         // --b - > A -> ExpA = 19 -> b=19
         // b++ -> B -> ExpB = 19 -> b=20
         // b-- -> C -> ExpC = 20 -> b=19
 
-        //ExpA + ExpB+ ExpC = 19+19+20 = 34
-
-
+        //ExpA + ExpB+ ExpC = 19+19+20 = 58
     }
 }
